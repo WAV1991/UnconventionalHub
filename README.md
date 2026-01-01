@@ -23,6 +23,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/WAV1991/Unconventiona
   - Barrier.
   - Needles.
   - HydroFreeze.
+  - Festive.
 - Settings:
   - Anti Kick.
   - Anti Afk.
